@@ -27,7 +27,7 @@ A launcher plugin that evaluates mathematical expressions and copies results to 
 ### Via DMS
 
 ```bash
-dms plugins install Calculator
+hype plugins install Calculator
 ```
 
 ### Via DMS GUI
